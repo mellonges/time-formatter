@@ -1,0 +1,16 @@
+{
+  "name": "time-formatter",
+  "version": "1.0.0",
+  "description": "time format",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "la-la-la"
+  ],
+  "author": "mellonges",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "date-fns": "^2.27.0"
+  }
+}
