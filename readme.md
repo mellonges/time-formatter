@@ -2,7 +2,5 @@
 
 its function formatting unix timestamp to normal people time format.
 
+https://user-images.githubusercontent.com/70666395/146994865-70973bc9-f6f4-4c6e-b24f-b51f69df4dd0.mov
 
-
-
-Uploading Screen Recording 2021-12-21 at 22.50.31.mov…
